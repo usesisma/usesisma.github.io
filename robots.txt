@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usesisma.github.io/sitemap.html.gz
+Sitemap: https://usesisma.github.io/app/sitemap.html.gz
+Sitemap: https://usesisma.github.io/assets/sitemap.html.gz
+Sitemap: https://usesisma.github.io/css/sitemap.html.gz
+Sitemap: https://usesisma.github.io/includes/sitemap.html.gz
+Sitemap: https://usesisma.github.io/item/sitemap.html.gz
+Sitemap: https://usesisma.github.io/src/sitemap.html.gz
